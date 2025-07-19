@@ -166,11 +166,15 @@ The Laravel backend provides RESTful APIs for:
 
 ## 📸 Project Screenshots
 
-The project includes two demonstration images:
-- **img1.png**: Main homepage and product showcase
-- **img2.png**: Additional features and functionality
+The project includes two demonstration images showcasing the visual design and user interface of the LuxFurn platform:
 
-These images showcase the visual design and user interface of the LuxFurn platform.
+### Main Homepage and Product Showcase
+![LuxFurn Homepage](img1.png)
+
+### Additional Features and Functionality
+![LuxFurn Features](img2.png)
+
+These screenshots demonstrate the modern, responsive design and comprehensive functionality of the luxury furniture e-commerce platform.
 
 ## 🎯 Learning Objectives
 
